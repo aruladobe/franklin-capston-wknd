@@ -9,7 +9,7 @@ main .carousel-wrapper {
   main .carousel {
     display: flex;
     scroll-snap-type: x mandatory;
-    overflow: scroll hidden;
+    overflow: hidden;
     scroll-behavior: smooth;
     margin: auto;
   }
@@ -70,7 +70,7 @@ main .carousel-wrapper {
     padding: 0;
     margin: 5px;
     border-radius: 5px;
-    background-color: var(--highlight-background-color);
+    background-color: gray;
   }
   
   main .carousel-dots button.selected {

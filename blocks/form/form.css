@@ -129,3 +129,12 @@ main .form .form-submit-wrapper {
     display: flex;
     justify-content: flex-start;
 }
+
+.form-container {
+    max-width: 500px;
+    margin: auto ;
+    padding: 24px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-bottom: 20px;
+
+}

@@ -8,12 +8,12 @@
 }
 
 .cards > ul > li {
-  border: 1px solid var(--dark-color);
   background-color: var(--background-color);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .cards .cards-card-body {
-  padding: 16px 0;
+  padding: 16px 16px;
 }
 
 .cards .cards-card-image {
@@ -57,6 +57,7 @@
   margin: 0;
   background: unset;
   padding: 0;
+  color: #2373df;
 }
 
 .cards-card-body p {
@@ -70,4 +71,9 @@
   text-transform: uppercase;
   white-space: nowrap;
   width: 260px;
+}
+
+
+.cards-card-body p a{
+  color: 2373df;
 }

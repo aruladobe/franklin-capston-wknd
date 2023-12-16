@@ -228,6 +228,7 @@ header nav .nav-sections ul > li > ul > li {
     gap: 2em;
     margin: 0;
     font-size: var(--body-font-size-xs);
+    float: right;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li {
