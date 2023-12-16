@@ -57,7 +57,7 @@
   margin: 0;
   background: unset;
   padding: 0;
-  color: #2373df;
+  color: #0b3550;
 }
 
 .cards-card-body p {
@@ -74,6 +74,3 @@
 }
 
 
-.cards-card-body p a{
-  color: 2373df;
-}

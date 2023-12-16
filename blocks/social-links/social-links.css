@@ -3,7 +3,7 @@
     justify-content: space-around;
   }
   .social-links a {
-    background-color: #fff;
+    /* background-color: #fff; */
     display: block;
     margin-left: 5px;
   }
