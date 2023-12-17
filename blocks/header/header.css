@@ -3,7 +3,7 @@ header .nav-wrapper {
   width: 100%;
   z-index: 2;
   position: fixed;
-  padding: 20px;
+  padding: 24px;
   background: linear-gradient(180deg, rgba(6,50,78,1) 0%, rgba(12,129,204,1) 62%, rgba(0,212,255,1) 100%);
 }
 
@@ -56,6 +56,14 @@ header nav p {
 
 header nav a:any-link {
   color: var(--background-color);
+}
+
+header nav a .icon-search {
+  height: 24px;
+  width: 24px;
+  margin: 0px 10px;
+  top: 5px;
+  position: relative;
 }
 
 /* hamburger */

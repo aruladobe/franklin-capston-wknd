@@ -34,3 +34,7 @@ footer .footer p {
 footer picture img {
   width: 180px;
 }
+
+.footer > div > div ul > li {
+  list-style: none;
+}
