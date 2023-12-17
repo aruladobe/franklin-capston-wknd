@@ -56,6 +56,8 @@ header nav p {
 
 header nav a:any-link {
   color: var(--background-color);
+  vertical-align: middle;
+  line-height: 3;
 }
 
 header nav a .icon-search {
