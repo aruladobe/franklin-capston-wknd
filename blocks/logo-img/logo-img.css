@@ -5,3 +5,7 @@
 .logo-img-container {
     margin: 30px 0px;
 }
+
+.logo-img-container ul{
+    display: inline-flex;
+}
