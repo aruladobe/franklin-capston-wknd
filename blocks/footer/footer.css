@@ -11,6 +11,7 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
+  font-size: 1rem;
 }
 
 .footer > div > div {
@@ -29,6 +30,7 @@ footer .footer p {
 }
 .footer > div > div > ul {
   list-style: none;
+  display: inline-flex;
 }
 
 footer picture img {
